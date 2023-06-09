@@ -1,0 +1,17 @@
+{
+    "THEME" : "BLUE",
+    "THEMES": {
+        "DEFAULT" : {
+            "BG_COLOR" : "#3d6466",
+            "ACCENT1" : "#073335",
+            "ACCENT2" : "#177276",
+            "TEXT" : "#FFFFFF"
+        },
+        "BLUE" : {
+            "BG_COLOR" : "#8aecff",
+            "ACCENT1" : "#3cdfff",
+            "ACCENT2" : "#b1d2ff",
+            "TEXT" : "#000000"
+        }
+    }
+}
